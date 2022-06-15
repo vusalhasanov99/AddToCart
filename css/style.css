@@ -1,0 +1,394 @@
+.head .setir .nav {
+    background-color: #233a95;
+    justify-content: center;
+    height: 35px;
+}
+
+.head .setir .nav p {
+    color: white;
+    padding-top: 10px;
+    font-size: 12px;
+}
+
+
+.head .link {
+
+    background-color: aliceblue;
+    padding-left: 20px;
+    padding-top: 10px;
+    border: 5px;
+    display: flex;
+}
+
+.head .link .left {
+    list-style: none;
+    display: flex;
+
+
+}
+
+.head .link .left li a {
+    color: black;
+    font-size: 14px;
+
+}
+
+.head .link .center {
+
+    display: flex;
+    padding-left: 40px;
+
+}
+
+.head .link .center p {
+
+    padding-left: 40px;
+
+}
+
+.head .link .right {
+    padding-left: 40px;
+    display: flex;
+    list-style: none;
+
+}
+
+.head .link .right p {
+    padding-left: 20px;
+
+}
+
+.head .link .left li a {
+
+    text-decoration: none;
+    padding-left: 10px;
+
+}
+
+.head .header {
+    display: flex;
+    padding-top: 30px;
+}
+
+.head .header .icon i {
+    margin-left: 60px;
+    font-size: larger;
+    cursor: pointer;
+    padding-top: 20px;
+}
+
+.head .header .search input {
+    width: 500px;
+    height: 60px;
+    border-radius: 5px;
+    outline: none;
+
+
+}
+
+.head .header .search {
+    padding-left: 30px;
+
+}
+
+.head .header .img img {
+    width: 160px;
+    height: 70px;
+    padding-left: 40px;
+
+}
+
+.head .header .location {
+    font-size: larger;
+    border: 0.5px solid black;
+    border-radius: 10px;
+    margin-left: 50px;
+    padding-left: 20px;
+    width: 180px;
+    height: 70px;
+    cursor: pointer;
+
+}
+
+.head .header .location a {
+    text-decoration: none;
+}
+
+
+.categories {
+    padding-top: 15px;
+
+
+}
+
+.allcategories a {
+    text-decoration: none;
+    color: white;
+}
+
+.allcategories {
+    background-color: rgb(40, 116, 252);
+    width: 180px;
+    height: 50px;
+    padding: 15px;
+    padding-left: 35px;
+    border-radius: 20px;
+}
+
+.categories .container {
+    display: flex;
+}
+
+.rightcategories {
+    display: flex;
+    margin-left: 260px;
+    padding-top: 10px;
+
+}
+
+.rightcategories li {
+    list-style: none;
+
+    padding-left: 30px;
+}
+
+.rightcategories li a {
+    text-decoration: none;
+    color: black;
+    font-size: large;
+
+}
+
+.main {
+    display: flex;
+
+}
+
+.main .basliq {
+    display: flex;
+    padding-left: 10px;
+    margin-left: 10px;
+    padding-top: 10px;
+}
+
+.main .basliq a {
+    text-decoration: none;
+    color: black;
+
+}
+
+.main .basliq span {
+    padding-left: 10px;
+
+}
+
+.price {
+    display: flex;
+}
+
+.price a {
+    text-decoration: none;
+    color: black;
+    padding-left: 20px;
+}
+
+.filter {
+    padding-top: 60px;
+    padding-left: 20px;
+}
+
+.leftcontent {
+    border: 1px;
+    left: 30px;
+}
+
+.checkbox {
+    display: flex;
+
+}
+
+.checkbox li {
+    list-style: none;
+    padding-left: 10px;
+    cursor: pointer;
+
+}
+
+.checkbox li span {
+
+    padding-left: 15px;
+
+}
+
+.img {
+    padding-top: 50px;
+}
+
+.rightcontent .row {
+    padding-top: 20px;
+    display: flex;
+    font-size: larger;
+
+}
+
+.rightcontent .row .icon i {
+    padding-left: 10px;
+    cursor: pointer;
+}
+
+.rightcontent .row .icon .sort {
+    padding-left: 500px;
+
+}
+
+.rightcontent .row .icon .show {
+    padding-left: 60px;
+
+}
+
+.card1 {
+    display: flex;
+}
+
+.about1 a {
+    text-decoration: none;
+    color: black;
+}
+
+.about1 p {
+    padding-top: 10px;
+    color: green;
+    font-size: small;
+}
+
+.about1 .btn-light {
+    border: 1px solid black;
+    border-radius: 15px;
+
+}
+
+.btn-primary {
+    border-radius: 15px;
+    margin-top: 15px;
+
+
+}
+
+
+.footer {
+    background-color: #233a95;
+
+}
+
+.footer1 {
+    padding: 30px;
+    display: flex;
+}
+
+.emailfooter {
+    width: 400px;
+    height: 63px;
+    outline: none;
+}
+
+.submitfooter {
+    margin-left: -120px;
+    width: 110px;
+    height: 50px;
+    background-color: #233a95;
+    color: white;
+    border-radius: 5px;
+}
+
+.textfooter p {
+    color: lightslategray;
+}
+
+.textfooter h5 {
+    color: white;
+}
+
+.textfooter h3 {
+    color: white;
+}
+
+.imgfooter {
+    padding-left: 260px;
+}
+
+.foottext {
+    display: flex;
+}
+
+.col-3 {
+    border: 1px solid slategray;
+    font-size: larger;
+    height: 90px;
+    padding: 30px;
+
+}
+
+.yekun {
+    padding: 40px;
+    padding-top: 90px;
+    display: flex;
+}
+
+.sutun1 a {
+    text-decoration: none;
+    color: slategray;
+    display: inline-block;
+}
+
+
+.card12 {
+    display: flex;
+}
+
+.card2 {
+    border: 1px solid rgb(172, 171, 171);
+    border-radius: 10px;
+}
+
+.about2 a {
+    text-decoration: none;
+    color: black;
+}
+
+.about2 p {
+    color: green;
+}
+
+.allproduct2 .card12 {
+    margin: 20px;
+    margin-left: 150px;
+
+}
+
+.allproduct2 .card12 .card2 {
+    margin: 10px;
+    width: 320px;
+
+}
+
+.allproduct2 .card12 .card2 .about1 {
+    margin-left: 10px;
+    margin-bottom: 15px;
+
+
+}
+
+.allproduct2 .card12 .card2 .about1 p {
+    height: 20px;
+
+}
+
+.allproduct2 .card12 .card2 .about1 .btn-primary {
+
+    margin-left: 100px;
+}
+
+.allproduct2 .card12 .card2 .img1 img {
+    height: 200px;
+    margin-left: 40px;
+}
